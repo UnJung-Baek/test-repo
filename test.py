@@ -1,1 +1,2 @@
-print('hi')
+print("hello")
+print("git practice")
